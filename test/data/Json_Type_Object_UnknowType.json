@@ -1,0 +1,11 @@
+{
+    "name2": "wangxiaoming",
+    "addr2": "huashendadao",
+    "age2": 30,
+	"jsontype1":
+	{
+	    "name": true,
+		"addr": "nj",
+		"age": 32
+	}
+}

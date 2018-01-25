@@ -1,0 +1,16 @@
+{
+    "index": [11,12,13],
+	"name": 
+	[
+	    true,
+	    false,
+	    true,
+		false
+	],
+	"operate": 
+	[
+	    {"value": "Add", "onclick": 123},
+		{"value": "Mod", "onclick": 456},
+		{"value": "Del", "onclick": 789}
+    ]
+}
